@@ -1,0 +1,22 @@
+{
+  "name": "exclude-extensions-from-require",
+  "version": "1.0.0",
+  "description": "Exclude files being required by extension",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Votion/exclude-extensions-from-require.git"
+  },
+  "keywords": [
+    "require"
+  ],
+  "author": "Seamus P. H. Leahy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Votion/exclude-extensions-from-require/issues"
+  },
+  "homepage": "https://github.com/Votion/exclude-extensions-from-require#readme"
+}
