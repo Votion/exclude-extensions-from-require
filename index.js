@@ -19,4 +19,4 @@ function excludeExtensionsFromRequire(exts) {
     });
 }
 
-module.export = excludeExtensionsFromRequire;
+module.exports = excludeExtensionsFromRequire;
